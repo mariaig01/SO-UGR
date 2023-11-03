@@ -1,0 +1,2 @@
+close  cierra  un  descriptor  de fichero de forma que ya no se refiera a fichero alguno y pueda ser reutilizado. Cualesquiera bloqueos mantenidos sobre el fichero con el que estaba asociado,  y propiedad del proceso, son eliminados (sin importar qué descriptor de fichero fue utilizado para obtener el bloqueo).
+
