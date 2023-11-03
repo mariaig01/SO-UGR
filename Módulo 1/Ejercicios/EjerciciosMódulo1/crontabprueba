@@ -1,0 +1,3 @@
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/user/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+* * * * * /home/angustias/SO/pruebacrontab.sh

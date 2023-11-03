@@ -1,0 +1,5 @@
+#!/bin/bash
+
+nombrearchivo=`date +%Y-%j-%T`
+ps -ef > $nombrearchivo #-e muestra todos los procesos y -f visualiza los parametros con los que se levantó el proceso
+echo Mi pid = $$ >> $nombrearchivo

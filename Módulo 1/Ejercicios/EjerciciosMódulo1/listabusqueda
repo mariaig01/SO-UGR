@@ -1,0 +1,5 @@
+#!/bin/bash
+
+$directoriotrabajo=pwd
+
+echo $PATH - $directoriotrabajo >> /home/angustias/SO/test-`date +%Y-%j-%T`

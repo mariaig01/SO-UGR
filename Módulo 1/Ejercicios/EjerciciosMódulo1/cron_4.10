@@ -1,0 +1,3 @@
+SHELL=/bin/sh
+
+* * * * * * /home/angustias/SO/ejercicio4.10.sh
