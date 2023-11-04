@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "125" >> /home/angustias/SO/homeprueba
+echo "125" >> /home/maig/SO/homeprueba
