@@ -1,4 +1,4 @@
 SHELL=/bin/sh
 PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 #min h dm m ds o
-* * * * * /home/angustias/ejercicio4.12
+* * * * * /home/maig/ejercicio4.12
