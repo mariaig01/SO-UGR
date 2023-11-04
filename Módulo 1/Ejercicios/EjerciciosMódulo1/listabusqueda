@@ -2,4 +2,4 @@
 
 $directoriotrabajo=pwd
 
-echo $PATH - $directoriotrabajo >> /home/angustias/SO/test-`date +%Y-%j-%T`
+echo $PATH - $directoriotrabajo >> /home/maig/SO/test-`date +%Y-%j-%T`
