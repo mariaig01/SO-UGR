@@ -20,7 +20,7 @@ int main(int argc, char *argv[]){
 	}
 	else if(pid==0) { //proceso hijo ejecutando el programa
 	
-		if( (execl("/home/angus/Escritorio/Universidad/Segundo/1Cuatrimestre/IngenieriaInformatica/SO/Módulo2/'Sesión 3'","ldd","./ejercicio6",NULL)<0)) {
+		if( (execl("/home/Escritorio/Universidad/Segundo/1Cuatrimestre/IngenieriaInformatica/SO/Módulo2/'Sesión 3'","ldd","./ejercicio6",NULL)<0)) {
 		perror("\nError en el execl");
 		exit(-1);
 		}
